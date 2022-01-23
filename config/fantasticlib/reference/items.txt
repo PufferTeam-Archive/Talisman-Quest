@@ -738,8 +738,6 @@ thaumcraft:placeholder_table
 thaumcraft:empty
 thaumcraft:barrier
 forge:bucketfilled
-antiqueatlas:empty_antique_atlas
-antiqueatlas:antique_atlas
 baubles:ring
 betweenores:coal_ore
 betweenores:iron_ore
@@ -2558,10 +2556,6 @@ mysticalworld:antler_hat
 mysticalworld:beetle_mask
 mysticalworld:carapace
 mysticalworld:pelt
-mysticalworld:iron_dust
-mysticalworld:iron_dust_tiny
-mysticalworld:gold_dust
-mysticalworld:gold_dust_tiny
 mysticalworld:antlers
 mysticalworld:venison
 mysticalworld:raw_squid
@@ -2581,9 +2575,6 @@ mysticalworld:pearl
 mysticalworld:pearleporter
 mysticalworld:assorted_seeds
 mysticalworld:cooked_seeds
-mysticalworld:amethyst_knife
-mysticalworld:copper_knife
-mysticalworld:silver_knife
 mysticalworld:aubergine_seed
 mysticalworld:aubergine
 mysticalworld:cooked_aubergine

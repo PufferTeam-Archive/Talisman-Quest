@@ -1925,9 +1925,6 @@ immersiveintelligence:blueprints/basic_circuits
 immersiveintelligence:blueprints/ammo_molds
 immersiveintelligence:blueprints/advanced_functional
 immersiveintelligence:blueprints/advanced_circuits
-antiqueatlas:atlas_blank
-antiqueatlas:atlas_clone
-antiqueatlas:atlas_combine
 doubleslabs:dynamic_vertical_slab
 immersiveengineering:banners
 immersiveengineering:revolver_loop
