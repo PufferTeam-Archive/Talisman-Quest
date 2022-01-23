@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c13c06c9",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}
