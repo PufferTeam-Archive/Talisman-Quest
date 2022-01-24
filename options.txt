@@ -89,6 +89,9 @@ key_of.key.zoom:46
 key_Change Caster Focus:36
 key_Misc Caster Toggle:0
 key_keybind.baublesinventory:48
+key_bloodmagic.keybind.open_holding:35
+key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
+key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
 key_doubleslabs.key.toggleVerticalSlabPlacement:0
 key_key.ftbutilities.nbt:0
@@ -118,6 +121,8 @@ key_key.use_ring:49
 key_key.use_secondary_ring:0
 key_key.open_pouch:50
 key_key.connect_caving_rope:47
+key_key.cofh.multimode:47
+key_nei.options.keys.gui.botania_corporea_request:0
 key_key.settings_menu:0
 key_key.range:0
 key_key.undo:0
@@ -178,14 +183,14 @@ key_key.journeymap.fullscreen_create_waypoint:45
 key_key.journeymap.fullscreen_chat_position:0
 key_key.journeymap.map_toggle_alt:44
 key_key.journeymap.fullscreen_waypoints:0
-key_key.journeymap.minimap_toggle_alt:0
+key_key.journeymap.minimap_toggle_alt:34
 key_key.journeymap.fullscreen_options:0
 key_key.journeymap.fullscreen.north:0
 key_key.journeymap.fullscreen.south:0
 key_key.journeymap.fullscreen.east:0
 key_key.journeymap.fullscreen.west:0
 soundCategory_master:1.0
-soundCategory_music:0.112676054
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

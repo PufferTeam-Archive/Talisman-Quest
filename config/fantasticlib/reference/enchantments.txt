@@ -34,3 +34,11 @@ tombstone:magic_siphon
 tombstone:plague_bringer
 tombstone:blessing
 tombstone:curse_of_bones
+cofhcore:holding
+cofhcore:insight
+cofhcore:leech
+cofhcore:multishot
+cofhcore:smashing
+cofhcore:smelting
+cofhcore:soulbound
+cofhcore:vorpal

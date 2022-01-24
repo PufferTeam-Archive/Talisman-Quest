@@ -37,9 +37,6 @@ mysticalworld:amethyst_shovel
 mysticalworld:amethyst_pickaxe
 mysticalworld:amethyst_hoe
 mysticalworld:amethyst_axe
-mysticalworld:amethyst_knife
-mysticalworld:copper_knife
-mysticalworld:silver_knife
 mysticalworld:iron_dust
 mysticalworld:iron_dust_tiny
 mysticalworld:gold_dust
@@ -72,4 +69,3 @@ pyrotech:flint_axe
 theoneprobe:diamond_helmet_probe
 theoneprobe:gold_helmet_probe
 theoneprobe:iron_helmet_probe
-betternether:quartz_stained_glass_pane
